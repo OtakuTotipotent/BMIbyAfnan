@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI by Afnan</string>
+    <string name="edt_hint_weight">Enter your weight (Kg)</string>
+    <string name="edt_hint_height_ft">Height in Feet (Ft)</string>
+    <string name="edt_hint_height_In">Height in Inches (In)</string>
+    <string name="btn_calculate">Calculate BMI</string>
+    <string name="txt_hint">Enter values carefully to get concise results</string>
+    <string name="txt_overweight">You are Overweight</string>
+    <string name="txt_underweight">You are under-weight!</string>
+    <string name="txt_normal_weight">Wow! You are Normal. Maintain it</string>
+</resources>
